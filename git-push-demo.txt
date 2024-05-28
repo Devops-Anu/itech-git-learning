@@ -1,0 +1,6 @@
+create file in local computer for local repo
+open git bash
+git status
+git add .
+git commit -m "YOUR-COMMIT MESSAGE"
+git push

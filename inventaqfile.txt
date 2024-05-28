@@ -1,1 +1,2 @@
-this is inventaq seconnd file 
+this is inventaq seconnd file
+these changes are done from local
