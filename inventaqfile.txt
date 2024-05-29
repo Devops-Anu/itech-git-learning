@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 this is inventaq seconnd file
 these changes are done from local
+=======
+this is inventaq seconnd file 
+now i am editing this file .
+>>>>>>> 59023d8991efdbc433e4e614086b6c3f7a7e816e
