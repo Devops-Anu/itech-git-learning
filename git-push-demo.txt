@@ -1,4 +1,5 @@
-create file in local computer for local repo
+this is second file
+Create file in local computer for local repo
 open git bash
 git status
 git add .
